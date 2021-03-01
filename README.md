@@ -12,7 +12,6 @@
 
 - % (modulo symbol)
 - PowerMod (a^n % b) calculated efficiently (not naively but using proper algorithm to prevent overflow)
-[comment] - A bash script (.sh) for easy install
 
 The calculator always returns a double as the answer for valid expressions.
 
