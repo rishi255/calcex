@@ -8,11 +8,6 @@
 - "^" operator (power)
 - Bracketing of expressions in parantheses
 
-### Features to add
-
-- % (modulo symbol)
-- PowerMod (a^n % b) calculated efficiently (not naively but using proper algorithm to prevent overflow)
-
 The calculator always returns a double as the answer for valid expressions.
 
 ### Installation
@@ -37,3 +32,8 @@ The "yyerror()" function is used to report whatever error the parser faces.
 
 1. ```19672 * (347213 - 421)/5```
 2. ```345^3 % 90```
+
+### Features to add
+
+- % (modulo symbol)
+- PowerMod (a^n % b) calculated efficiently (not naively but using proper algorithm to prevent overflow)
