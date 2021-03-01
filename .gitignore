@@ -1,0 +1,4 @@
+calcex
+*.tab.*
+*.out
+*.yy.c
