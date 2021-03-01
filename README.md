@@ -26,7 +26,8 @@ To compile the code using the Makefile, ```cd``` into the cloned repo folder and
 
 To run the program after installing, make sure you are in the cloned repo folder and just type ```./calcex```.  
 The program quits whenever an error is reported, or when ```exit``` is passed as input to the program.  
-The "yyerror()" function is used to report whatever error the parser faces.
+
+The ```yyerror()``` function is used to report whatever error the parser faces.
 
 #### Example inputs
 
